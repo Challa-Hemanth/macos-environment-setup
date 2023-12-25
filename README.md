@@ -26,7 +26,7 @@ pyenv global <version-number>
 ```
 
 ### Ruby Environment Configuration
-Install Desired ruby version via pyenv
+Install Desired ruby version via rbenv
 ```
 rbenv install <version-number>
 rbenv global <version-number>
