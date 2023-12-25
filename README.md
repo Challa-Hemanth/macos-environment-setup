@@ -25,14 +25,14 @@ brew install openssl readline sqlite3 xz zlib tcl-tk pyenv rbenv starship zsh-au
 ```
 
 ### Python Environment Configuration
-Install Desired python version via pyenv
+Install desired python version via pyenv
 ```
 pyenv install <version-number>
 pyenv global <version-number>
 ```
 
 ### Ruby Environment Configuration
-Install Desired ruby version via rbenv
+Install desired ruby version via rbenv
 ```
 rbenv install <version-number>
 rbenv global <version-number>
