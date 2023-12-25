@@ -37,8 +37,3 @@ rbenv global <version-number>
 
 ## Usage
 Clone this repository to your home folder.
-
-## Casks
-```
-brew install --cask iina qbittorrent visual-studio-code
-```
