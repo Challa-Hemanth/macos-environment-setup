@@ -6,10 +6,16 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Install terminal of choice (Warp)
+### Install terminal of choice
+Warp:
 ```
 brew install --cask warp
 ```
+iterm2:
+```
+brew install --cask iterm2
+```
+
 ### Install a nerd-font
 ```Hack,Mono,Meslo```
 
