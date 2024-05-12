@@ -21,7 +21,7 @@ brew install --cask iterm2
 
 ### Formulae
 ```
-brew install openssl readline sqlite3 xz zlib tcl-tk pyenv rbenv starship zsh-autosuggestions zsh-syntax-highlighting neofetch bat
+brew install openssl readline sqlite3 xz zlib tcl-tk pyenv rbenv starship zsh-autosuggestions zsh-syntax-highlighting bat
 ```
 
 ### Python Environment Configuration
